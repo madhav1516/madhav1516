@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**madhav1516/madhav1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to My GitHub 🚀
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE (AI/ML) Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Python and C++ Developer
+- ⚡ Embedded Systems & IoT Enthusiast
+- 🔧 Working with ESP32, Arduino, Sensors, and Automation
+- 🚗 Interested in Smart Automotive Safety Systems
+- 📚 Currently learning DSA, DBMS, and Advanced AI Concepts
+- 🚀 Love building real-world projects that combine hardware and software
+- 🌱 Always learning new technologies
+- 🎯 Goal: Become an AI and Embedded Systems Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀  I'm Currently Working On
+
+- 🔭 Developing an AI-powered Automotive Safety System
+- 🚗 Building ADAS-inspired vehicle monitoring projects using ESP32 and Arduino
+- 📡 Working with sensors for obstacle detection and safety automation
+- 🤖 Learning Machine Learning and AI applications in real-world systems
+- 📊 Exploring data visualization and monitoring dashboards with Python
+- 📚 Strengthening my knowledge of DSA and DBMS
+
+## 🛠️ Development Tools
+- 💻 VS Code
+- 🌿 Git & GitHub
+- 🔧 Arduino IDE
+- MySQL Workbench
+ 
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: in/madhav-radhey-8b4926213
+- 🐙 GitHub: @madhav1516
+
+Feel free to connect, collaborate, or discuss technology, AI, IoT, Ml and embedded systems!
